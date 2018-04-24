@@ -6,7 +6,7 @@ by: <a target="_blank" href="http://www.eosland.ca">EOS Land</a>
 
 Check the Nodes status in <a target="_blank" href="http://159.89.124.68:9898/monitor/">Network Monitor</a>
 
-To participate as block producer please contact us in <a target="_blank" href="https://t.me/eosyvr">telegram channel</a>
+To participate as block producer please contact us in <a target="_blank" href="https://t.me/joinchat/Gl6KDgz_gXErCxDDVjq1yw">telegram channel</a>
 
 
 # How to configure node and test BP
