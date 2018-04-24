@@ -1,4 +1,4 @@
-# Welcome to the New World Testnet
+# Welcome to the New-World-Testnet
 EOS public test network    
 Based on: DAWN-2018-04-23-ALPHA <!--dawn-v3.0.0 release-->  
 by: <a target="_blank" href="http://www.eosland.ca">EOS Land</a>  
@@ -18,7 +18,7 @@ To participate as block producer please contact us in <a target="_blank" href="h
   chmod 777 /opt/eosio/start.sh  
   chmod 777 /opt/eosio/stop.sh  
   
-- Choose your producer name (any jungle animal ;) and create own EOS key pair  
+- Choose your producer name and create own EOS key pair  
   you can create key pair using cleos command ./cleos create key or <a target="_blank" href="https://nadejde.github.io/eos-token-sale/">here</a>.
 - Edit config.ini with your producer name and created key pair
 - Open http and p2p Ports on your firewall/router
