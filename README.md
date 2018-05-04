@@ -4,7 +4,7 @@ Based on: DAWN-2018-04-23-ALPHA <!--dawn-v3.0.0 release-->
 by: <a target="_blank" href="http://www.eosland.ca">EOS Land</a>  
 
 
-Check the Nodes status in <a target="_blank" href="http://138.197.160.74:9898/">Network Monitor</a>
+Check the Nodes status in <a target="_blank" href="http://testnet.eosland.ca:9898/">Network Monitor</a>
 
 To participate as block producer please contact us in <a target="_blank" href="https://t.me/joinchat/Gl6KDgz_gXErCxDDVjq1yw">telegram channel</a>
 
@@ -23,7 +23,7 @@ To participate as block producer please contact us in <a target="_blank" href="h
 - Edit config.ini with your producer name and created key pair
 - Open http and p2p Ports on your firewall/router
 - Connect your node, run ./start.sh
-- Check if you can access you node using link http://you_server:your_http_port/v1/chain/get_info (<a href="http://159.89.124.68:8888/v1/chain/get_info" target="_blank">Example</a>)
+- Check if you can access you node using link http://you_server:your_http_port/v1/chain/get_info (<a href="http://testnet.eosland.ca:8888/v1/chain/get_info" target="_blank">Example</a>)
 
     
 | Server Location | Organisation | node ip/domain, | Port (http) |  Port (p2p) | producer name | your public key|
