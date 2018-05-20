@@ -1,6 +1,6 @@
 # Welcome to the New-World-Testnet
 EOS public test network    
-Based on: DAWN-2018-04-23-ALPHA <!--dawn-v3.0.0 release-->  
+Based on: DAWN-4.1.0
 by: <a target="_blank" href="http://www.eosland.ca">EOS Land</a>  
 
 
@@ -37,8 +37,9 @@ To participate as block producer please contact us in <a target="_blank" href="h
 # BP Nodes Information
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
-| eosland | 159.89.124.68 | 8888	| 9876	 | Toronto, Ontario, Canada | EOS Land |
-| eosland2 | 66.175.220.184 | 8889	| 9877 | California, USA | EOS Land |
+| vaneoslandn1 | 159.89.124.68 | 8888	| 9876	 | Toronto, Ontario, Canada | EOS Land |
+| vaneoslandn2 | 66.175.220.184 | 8889	| 9877 | California, USA | EOS Land |
+| eoslandtest1 | 66.175.220.184 | 8889	| 9876 | California, USA | EOS Land |
 
 
 
